@@ -31,6 +31,8 @@ public class IncludFilmAction {
 		public String includFilmAction(){
 				Session s = null;
 				Transaction t = null;
+				String teste = null;
+				
 				
 				try{
 					
